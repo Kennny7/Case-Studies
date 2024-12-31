@@ -37,6 +37,7 @@ The model assigns a lead score to each lead, enabling the sales team to prioriti
 3. Required libraries:
    - pandas
    - numpy
+   - SciPy
    - matplotlib
    - seaborn
    - sklearn
